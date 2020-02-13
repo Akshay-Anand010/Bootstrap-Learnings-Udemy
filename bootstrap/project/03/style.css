@@ -1,0 +1,25 @@
+body
+{
+  background: #3494E6;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #EC6EAD, #3494E6);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #EC6EAD, #3494E6); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+#logo
+{
+max-width: 200px;
+max-height: 200px;
+margin: 0 auto;
+}
+.con
+{
+
+text-align: center;
+}
+#login-modal .modal-dialog
+{
+width: 350px;
+}
+#login-modal input[type="text"],input[type="Password"]
+{
+  margin-top:10px;
+}

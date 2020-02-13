@@ -1,0 +1,42 @@
+body
+{
+  background: url(bittu3tint.jpg) no-repeat center fixed;
+  -webkit-background-size:cover;
+  background-size: cover;
+  font-family: 'Press Start 2P', cursive;
+}
+.rowheight
+{
+height: 500px;
+}
+h1
+{
+  color: #fff;
+  font-size: 2.5ems;
+}
+.bg
+{
+  background-color: yellow;
+  opacity: 0.8;
+}
+.src
+{
+height: 200px;
+width: 300px;
+}
+.footer
+{
+background-color: #fff;
+bottom: 0;
+
+}
+.con
+{
+  height: 600px;
+}
+p
+{
+  font-size: 18px;
+  padding: 5px;
+
+}
